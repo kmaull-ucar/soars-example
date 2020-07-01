@@ -1,1 +1,2 @@
-# soars-example
+# SOARS example
+This is an example repo.
